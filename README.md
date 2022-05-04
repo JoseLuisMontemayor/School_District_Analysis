@@ -44,7 +44,7 @@ Another interesting result, is that the small and medium schools have the best r
 
 The average math and reading scores from the Charter and District Schools are not so differenciated, what caughts attention is the overall percentage of passing, where in the District Schools have a terrible ratio of a 54%, in the other hand with the Charter Schools that have a passing percentage of 90%. 
 
-*Insert results_school_type
+![](https://github.com/JoseLuisMontemayor/School_District_Analysis/blob/main/Resources/Results_school_type.PNG)
 
 
 ## Summary
