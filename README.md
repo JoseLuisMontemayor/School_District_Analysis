@@ -35,7 +35,7 @@ It is shown that averages and passing percentages do not increase as the spendin
 
 ### Results by School Size
 
-*Insert results_school size
+![](https://github.com/JoseLuisMontemayor/School_District_Analysis/blob/main/Resources/Results_school_size.PNG)
 
 Another interesting result, is that the small and medium schools have the best results. Only Holden and Pena High Schools are classified as small, meanhile most of the other schools are between meduim and large. It is impressive how the large schools have an overall passing rate so far from the other options (more than 30%). It would be engaging to see the development after an action plan.
 
