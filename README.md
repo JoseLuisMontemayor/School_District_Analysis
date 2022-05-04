@@ -49,12 +49,6 @@ The average math and reading scores from the Charter and District Schools are no
 
 ## Summary
 
-
-
-
-
-
-
-
+In terms of the made changes of the scores interfaced as NaNs, it is evident that the disrict overall, reading and math scores declined, also the passing percentage for their students. Before, Thomas High Schools was one of the best schools in the list, which now came to the last places as in contrast. It also affected the results as a school size and school type, since the scores of a whole grade were not considered for this exercise. 
 
 
