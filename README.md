@@ -18,7 +18,7 @@ After seeing this results and comparing them with the original ones we could not
 
 Replacing the data for the ninth grade students of this High School has notable and significant results, we can also see that regarding the overall passing percentage is one of the worst High Schools in the district, falling brutally from the top 5 places in which it was before. 
 
-*Insert highscholls results
+![](https://github.com/JoseLuisMontemayor/School_District_Analysis/blob/main/Resources/HighSchools_results.PNG)
 
 The last image shows the results for all the district high schools, and there a couple of notable results for Thomas High School:
   * The overall passing percentage regarding math declined to 67%
