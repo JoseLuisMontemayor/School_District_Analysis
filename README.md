@@ -30,7 +30,7 @@ The last image shows the results for all the district high schools, and there a 
 
 It is shown that averages and passing percentages do not increase as the spending per student increase, there would be no correlation in terms of increasement of funds. The highest overall passing percentage is the one that has less funding per student with 90.4%, and the one with most funding has an overall passing percentage of 53.5%.
 
-*Insert school_spending
+![](https://github.com/JoseLuisMontemayor/School_District_Analysis/blob/main/Resources/Results_school_spending.PNG)
 
 
 ### Results by School Size
