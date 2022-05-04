@@ -8,7 +8,7 @@ The purpose of this project is to analyze data of an School District regarding g
 
 Due to an academic dishonesty regarding the ninth grade students of Thomas High School, we had to conduct the analysis again replacing their scores with an NaN. After replacing for the correct information, the total results that we obtained were the next: 
 
-*Insert district_total_results
+![](https://github.com/JoseLuisMontemayor/School_District_Analysis/blob/main/Resources/District_total_results.PNG)
 
 After seeing this results and comparing them with the original ones we could notice a couple of interesting points for the whole district:
   * The overall passing percentage regarding math declined to 75%
